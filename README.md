@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/%E2%96%B8_LOCATION-Prayagraj-33ff66?style=flat-square&labelColor=0b0f0a" alt="Location" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `▸ PLAYER STATS`
 
