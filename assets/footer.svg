@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="80" viewBox="0 0 840 80">
+  <rect width="840" height="80" fill="transparent"/>
+  <text x="420" y="35" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#33ff66">
+    &gt; press start to connect
+  </text>
+  <text x="420" y="58" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8a8a8a">
+    jamal@dev:~$
+  </text>
+</svg>
