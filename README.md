@@ -1,26 +1,118 @@
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║          ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄         ║
+║          █  J A M A L   A H M A D   A N S A R I  █                   ║
+║          ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀         ║
+║                                                                      ║
+║                    FULL-STACK DEVELOPER                              ║
+║                    PRAYAGRAJ · INDIA                                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
+
+<pre>
+> SYSTEM BOOT SEQUENCE INITIATED...
+> LOADING USER PROFILE.................... [OK]
+> MOUNTING SKILL MATRIX................... [OK]
+> SCANNING REPOSITORIES................... [OK]
+> STATUS: ONLINE
+</pre>
+
+---
+
+### `▸ IDENTITY`
+
+<pre>
+USERNAME     : Ansari1jamal
+REAL NAME    : Jamal Ahmad Ansari
+CLASS        : Full-Stack Developer
+LOCATION     : Prayagraj, India
+MAIN STACK   : React · Node.js · PostgreSQL · Prisma
+CURRENT QUEST: Building production-ready full-stack applications
+STATUS       : ● Available for opportunities
+</pre>
+
+---
+
+### `▸ PROJECT ARCHIVE`
+
+<pre>
+┌─────────────────────────────────────────────────────────────────────┐
+│  [01] FINBOAT CRM                                          ● LIVE  │
+│  Full loan lifecycle system                                        │
+│  React + Vite · Express · PostgreSQL · Prisma · Redis · BullMQ     │
+│  → https://github.com/Ansari1jamal/FInboat-CRM                     │
+├─────────────────────────────────────────────────────────────────────┤
+│  [02] JAMAL PORTFOLIO                                      ● LIVE  │
+│  Personal portfolio                                                │
+│  React + Vite + Tailwind                                           │
+│  → https://jamal-portfolio-kappa.vercel.app                        │
+├─────────────────────────────────────────────────────────────────────┤
+│  [03] AMAZON CLONE                                         ● LIVE  │
+│  E-commerce UI clone                                               │
+│  HTML · CSS · JavaScript                                           │
+│  → https://amazon-clone-phi-bice.vercel.app                        │
+├─────────────────────────────────────────────────────────────────────┤
+│  [04] WEATHER FORECASTING                                  ● LIVE  │
+│  Real-time weather application                                     │
+│  HTML · CSS · JavaScript                                           │
+│  → https://weather-forcasting-six.vercel.app                       │
+├─────────────────────────────────────────────────────────────────────┤
+│  [05] LEET MATRIX                                          ● LIVE  │
+│  Interactive matrix / tracker                                      │
+│  HTML · CSS · JavaScript                                           │
+│  → https://leet-matrix-pearl.vercel.app                            │
+└─────────────────────────────────────────────────────────────────────┘
+</pre>
+
+---
+
+### `▸ TECH INVENTORY`
+
+<pre>
+FRONTEND   ▸  React  ·  Vite  ·  HTML5  ·  CSS3  ·  Tailwind  ·  JavaScript
+BACKEND    ▸  Node.js  ·  Express  ·  REST APIs
+DATABASE   ▸  PostgreSQL  ·  Prisma  ·  Redis
+TOOLING    ▸  Git  ·  GitHub  ·  Vercel  ·  BullMQ  ·  Swagger
+</pre>
+
+---
+
+### `▸ CURRENTLY LOADING`
+
+<pre>
+████████████████░░░░  System Design
+███████████░░░░░░░░░  Docker & CI/CD
+████████░░░░░░░░░░░░  Testing (Jest / Playwright)
+██████░░░░░░░░░░░░░░  TypeScript
+</pre>
+
+---
+
+### `▸ SYSTEM STATS`
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=33FF66&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jamal+Ahmad+Ansari;Full-Stack+Developer;Building+cool+stuff+on+the+web" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansari1jamal&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari1jamal&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <a href="https://jamal-portfolio-kappa.vercel.app/">
-    <img src="https://img.shields.io/badge/%E2%96%B8_PORTFOLIO-jamal--portfolio-33ff66?style=flat-square&labelColor=0b0f0a" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Ansari1jamal">
-    <img src="https://img.shields.io/badge/%E2%96%B8_GITHUB-Ansari1jamal-ffb000?style=flat-square&labelColor=0b0f0a" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/%E2%96%B8_LOCATION-Prayagraj-33ff66?style=flat-square&labelColor=0b0f0a" alt="Location" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansari1jamal&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## `▸ PLAYER STATS`
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║  > CONNECTION ESTABLISHED                                            ║
+║  > AWAITING INPUT...                                                 ║
+║                                                                      ║
+║  Portfolio → https://jamal-portfolio-kappa.vercel.app                ║
+║  GitHub    → https://github.com/Ansari1jamal                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
 
-```text
-PLAYER ........ Jamal Ahmad Ansari
-CLASS ......... Full-Stack Developer
-BASE .......... Prayagraj, India
-MAIN WEAPON ... React + Node.js + PostgreSQL
-SPECIAL ....... Builds full-stack apps end-to-end (UI → API → DB → Deploy)
-SIDE QUEST .... Learning advanced backend patterns & system design
-STATUS ........ ● Open to opportunities & collaborations
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ansari1jamal&style=flat-square&color=39FF14" alt="Profile views"/>
+</p>
