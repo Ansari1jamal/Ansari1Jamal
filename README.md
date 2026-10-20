@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=33FF66&center=true&vCenter=true&width=700&lines=Jamal+Ahmad+Ansari;Full-Stack+Developer;Building+things+that+work" alt="Typing SVG" />
+  <img src="./assets/header.svg" width="100%" alt="Jamal Ahmad Ansari — Full-Stack Developer" />
 </p>
 
 <p align="center">
